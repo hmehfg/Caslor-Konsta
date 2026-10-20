@@ -1,4 +1,4 @@
-<h1 align="center">Caslor</h1>
+<h1 align="center">Caslor Konsta</h1>
 
 <p align="center">
 <img src="img/CaslorLogonobg.png" alt="Alt text" width="200"> <!-- No background picture now -->
