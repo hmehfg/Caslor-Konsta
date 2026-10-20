@@ -9,7 +9,7 @@
     <code><b>Discord server</b></code>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/hmehfg/Caslor/releases#release-Magisteriel_GeoBuilder">
+  <a href="https://github.com/hmehfg/Caslor-Konsta/releases/edit/HardwareMonitor">
     <code><b>Latest release</b></code>
   </a>
 </p>
