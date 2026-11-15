@@ -30,9 +30,10 @@
 
 [See more](https://github.com/hmehfg/Caslor/releases)
 
-# Download guide
-To download the apps and start using them, 
-1. go to: <a href="https://github.com/hmehfg/Caslor/releases">Releases</a>
-2. Scroll or click on the app you want to download on the left in the release list
-3. Scroll down until you find the 'Assets' section of the release and download
-the .zip file with a cube on the left of it.
+# Installing apps
+Installing many of our apps is fairly easy
+You can also download apps in our Discord: https://discord.gg/nHCf9pMrQ7
+1. Go to releases and choose the app you want to install
+2. Scroll down until you are at the 'Assets' section of that release
+3. Download the .zip or installer
+You've now installed a Caslor Konsta app
