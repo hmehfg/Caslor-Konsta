@@ -33,7 +33,9 @@
 # Installing apps
 Installing many of our apps is fairly easy
 You can also download apps in our Discord: https://discord.gg/nHCf9pMrQ7
+
 1. Go to releases and choose the app you want to install
 2. Scroll down until you are at the 'Assets' section of that release
 3. Download the .zip or installer
+
 You've now installed a Caslor Konsta app
