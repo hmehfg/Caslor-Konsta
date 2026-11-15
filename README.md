@@ -17,12 +17,12 @@
 ---
 
 # Overview
-Keeping a focus on apps, Caslor Konsta builds products under several conceptual company names (**not real businesses**)
-Our goal is to build apps anyone can use, regardless of cost
-None of our apps require an internet connection, giving you a simple, private experience with zero tracking.
-Several of our apps are quite useful, like Hardware View6 and View7, which allow you to track hardware statistics.
-Together, we plan to build more apps that work without the internet to help people with their daily tasks.
-All of us are committed to growing as a team so that you can advance your career, learn new skills, and succeed right alongside us.
+- Keeping a focus on apps, Caslor Konsta builds products under several conceptual company names (**not real businesses**)
+- Our goal is to build apps anyone can use, regardless of cost
+- None of our apps require an internet connection, giving you a simple, private experience with zero tracking.
+- Several of our apps are quite useful, like Hardware View6 and View7, which allow you to track hardware statistics.
+- Together, we plan to build more apps that work without the internet to help people with their daily tasks.
+- All of us are committed to growing as a team so that you can advance your career, learn new skills, and succeed right alongside us.
 
 # Releases
 - [Hardware View7 (latest)](https://github.com/hmehfg/Caslor-Konsta/releases/tag/HWV7)
