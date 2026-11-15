@@ -17,12 +17,15 @@
 ---
 
 # Overview
-This GitHub repository, "Caslor", is intended to release closed/open-source projects to the public.
-They serve as basic tools for beginners to use before migrating to more professional software.
-To use or download the software, go to the Releases page.
+Keeping a focus on apps, Caslor Konsta builds products under several conceptual company names (**not real businesses**)
+Our goal is to build apps anyone can use, regardless of cost
+None of our apps require an internet connection, giving you a simple, private experience with zero tracking.
+Several of our apps are quite useful, like Hardware View6 and View7, which allow you to track hardware statistics.
+Together, we plan to build more apps that work without the internet to help people with their daily tasks.
+All of us are committed to growing as a team so that you can advance your career, learn new skills, and succeed right alongside us.
 
 # Releases
-- [Vantec Video Editor Build26P46 v0.11.0](https://github.com/hmehfg/Caslor/releases#release-B26P46_v0.11.0)
+- [Hardware View7 (latest)](https://github.com/hmehfg/Caslor-Konsta/releases/tag/HWV7)
 - [Magisteriel GeoBuilder](https://github.com/hmehfg/Caslor/releases#release-Magisteriel_GeoBuilder)
 
 [See more](https://github.com/hmehfg/Caslor/releases)
